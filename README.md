@@ -9,7 +9,7 @@ javac -cp libs/Jdrasil.jar -d bin src/*.java
 java -cp libs/Jdrasil.jar:bin/ Main < example.gr
 ```
 # The File Format
-The tool works with both, the DIMACS graph coloring format (aka .col), as well as with the very similar format used by the PACE challenge (aka .gr), see [here](https://pacechallenge.wordpress.com/pace-2016/track-a-treewidth/) for an description.
+The tool works with both, the DIMACS graph coloring format (aka .col), as well as with the very similar format used by the PACE challenge (aka .gr), see [here](https://pacechallenge.wordpress.com/pace-2016/track-a-treewidth/) for a description.
 
 An simple example may look as follows:
 ```
