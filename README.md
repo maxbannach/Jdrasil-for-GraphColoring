@@ -2,7 +2,7 @@
 Demonstrate the new interface of Jdrasil for dynamic programming on tree decompositions.
 
 # Build and Run
-Simply execute the following commands to build and run the tool. You may want to manually get a newer version of [Jdrasil](https://maxbannach.github.io/Jdrasil/), though.
+Simply execute the following commands to build and run the tool. You may want to manually get a newer version of [Jdrasil](https://github.com/maxbannach/Jdrasil), though.
 ```
 mkdir bin
 javac -cp libs/Jdrasil.jar -d bin src/*.java
